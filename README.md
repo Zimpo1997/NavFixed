@@ -1,3 +1,3 @@
 # NavFixed-Test
-let's look original website when I trying to make nav fixed :D
+let's look the original website when I try to make nav fixed :D <br>
 This place >>> http://tympanus.net/Freebies/Sedna/#
